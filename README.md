@@ -1,5 +1,5 @@
 ### Hi there 👋 I am Vardana Bhanot
-[![Twitter Follow](https://img.shields.io/twitter/follow/vardanbhanot?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%vardanbhanot&screen_name=vardanbhanot)
+[![Twitter Follow](https://img.shields.io/twitter/follow/vardanbhanot?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https://github.com/vardanbhanot&screen_name=vardanbhanot)
 - 🌱 I’m currently learning Go
 - 🥅 2020 Goals: Start Contributing to Open Source Project
 
