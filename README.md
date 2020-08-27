@@ -31,7 +31,7 @@
 ### Github Stats:
 <img align="left" alt="Vardana's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=VardanBhanot&show_icons=true&hide_border=true" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VardanBhanot&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VardanBhanot&layout=compact&hide=python)](https://github.com/anuraghazra/github-readme-stats)
 
 [twitter]: https://twitter.com/vardanbhanot
 [instagram]: https://instagram.com/vardanabhanot
