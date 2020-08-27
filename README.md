@@ -34,6 +34,8 @@
 
 </details>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VardanBhanot)](https://github.com/anuraghazra/github-readme-stats)
+
 [twitter]: https://twitter.com/vardanbhanot
 [instagram]: https://instagram.com/vardanabhanot
 [linkedin]: https://linkedin.com/in/vardanabhanot
