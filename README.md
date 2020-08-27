@@ -26,7 +26,7 @@
 
 <br/>
 <br/>
-### Github Stats
+### Github Stats:
   <img align="left" alt="Vardana's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=VardanBhanot&show_icons=true&hide_border=true" />
 
 
