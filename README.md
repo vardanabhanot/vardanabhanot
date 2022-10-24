@@ -1,9 +1,12 @@
 ### Hi there 👋 I am Vardana Bhanot
 [![Twitter Follow](https://img.shields.io/twitter/follow/vardanbhanot?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https://github.com/vardanbhanot&screen_name=vardanbhanot)
 - 🌱 I’m currently learning Go
-- 🥅 2020 Goals: Start Contributing to Open Source Project
+- 🥅 2022 Goals: Start Contributing to Open Source Project
 
 <br />
+
+### Glad to see you here! &nbsp; ![](https://komarev.com/ghpvc/?username=VardanBhanot)
+<!-- ![](https://visitor-badge.glitch.me/badge?page_id=VardanaBhanot&style=flat-square&color=0088cc) -->
 
 ### Connect With me:
 [<img align="left" alt="VardanaBhanot | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
