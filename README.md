@@ -5,7 +5,7 @@
 
 <br />
 
-### Glad to see you here! &nbsp; ![](https://komarev.com/ghpvc/?username=VardanBhanot)
+### Glad to see you here! &nbsp; ![](https://komarev.com/ghpvc/?username=vardanabhanot)
 <!-- ![](https://visitor-badge.glitch.me/badge?page_id=VardanaBhanot&style=flat-square&color=0088cc) -->
 
 ### Connect With me:
@@ -33,11 +33,11 @@
 <br/>
 
 ### Github Stats:
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=VardanBhanot&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=monokai" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=vardanabhanot&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=monokai" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VardanBhanot&show_icons=true&layout=compact&hide_border=true&theme=monokai"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vardanabhanot&show_icons=true&layout=compact&hide_border=true&theme=monokai"/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VardanBhanot&layout=compact&hide=python)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vardanabhanot&layout=compact&hide=python)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
