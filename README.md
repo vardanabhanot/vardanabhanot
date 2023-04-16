@@ -1,2 +1,1 @@
-
-[linkedin]: https://linkedin.com/in/vardanabhanot
+LinkedIn: https://linkedin.com/in/vardanabhanot
